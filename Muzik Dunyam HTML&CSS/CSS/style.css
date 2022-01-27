@@ -1,0 +1,18 @@
+h1 {
+    color:rgb(180, 0, 0);
+}
+h2 {
+    color: blueviolet;
+    font-weight: bold;  
+}
+h3 {
+    color: cadetblue;
+}
+
+ul.a {
+    list-style-position: outside;
+  }
+  
+  ul.b {
+    list-style-position: inside;
+  }
